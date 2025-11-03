@@ -1,7 +1,12 @@
 # DUMELANG <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> I'm Kemiso, Nice to Meet You
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/23ec984e-282e-4126-bd01-cb3d47f75d37" alt="Adobe Express - TA-2025-11-03-12-09-createblow-810770351531136 (1)">
-</p>
+
+<div align="center">
+  
+![Adobe Express - TA-2025-11-03-12-09-createblow-810770351531136 (1)](https://github.com/user-attachments/assets/ee648fbc-528c-4f25-b7ea-ac01077a88f6)
+
+
+</div>
+
 
 # <h2 align="left">👨🏻‍💻 Get To Know Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
@@ -21,7 +26,8 @@ My journey taught me how to move beyond theoretical knowledge and apply **hands-
 
 ## 🌟 Core Competencies & Key Achievements
 <div align="center">
-  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/2da8bfa2-9107-4a11-b36a-d818326aa331" />     <img width="250" height="250" alt="Aws Cloud Practitioner Badge" src="https://github.com/user-attachments/assets/7d093894-a288-415e-a16b-ed039907ccde" />
+  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/2da8bfa2-9107-4a11-b36a-d818326aa331" />  <img width="234" height="234" alt="image" src="https://github.com/user-attachments/assets/16edbe91-8c28-444e-ac80-1ac5907f380d" />
+
 </div>
 
 ### ☁️ AWS Cloud Proficiency
