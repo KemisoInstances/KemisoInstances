@@ -9,23 +9,6 @@ From circuit board to secure cloud: My technical path is clear - I love Learning
 * **Specialization💡** I am an Electronic Engineer with a rare speciality in Artificial Intelligence/Machine Learning, Analogue/Digital Electronic Designs, and Signal & Systems 
 * **Core Value⏳** Revolutionizing the world of digital communication for faster, more secure, and smarter communication across all sectors, from consumer electronics to healthcare.
 * **Qualification/Certificate🎓** **AWS Certified Cloud Practitioner** & **Bachelors of Engineering**
-
-## 🛠️ Core Competencies
-
-* **Programming & Automation:** C++, Python, Bash shell, VHDL, PLC.
-* **Cloud Technologies (AWS Focus):** EC2, S3, IAM, VPC, Lambda, ECS, Amazon Lex, SageMaker, Recognition, CloudFront, CloudFormation.
-* **Operating Systems & Database:** Linux, CISCO IOS, SQL, NoSQL, RDBMS.
-* **Tools:** MATLAB, Packet tracer, Git, AWS Management Console, Simulink, SCADA.
-* **Electronics & Control Systems:** Analogue/Digital electronic design, PID controllers, broadband & mobile networks, robotics, Digital Signal Processing (DSP), IoT.
-* **AI & Machine Learning:** Applied OpenCV, CNN, Haar cascade classifiers, LBPH face recognizer.
-* **Project Management:** Led teams, delegated tasks, ensured timely project delivery.
-* **Communication:** Fluent in English; beginner in Russian.
-*  **Badge:**
-  
-<div align="center">
-  <img width="300" height="300" alt="Aws Cloud Practitioner Badge" src="https://github.com/user-attachments/assets/7d093894-a288-415e-a16b-ed039907ccde" />
-</div>
-
 ---
 
 # 💡 My AWS re/Start Journey: From Ambition to Architecture
@@ -37,8 +20,9 @@ My journey taught me how to move beyond theoretical knowledge and apply **hands-
 ---
 
 ## 🌟 Core Competencies & Key Achievements
-
-The AWS re/Start program is a rigorous, performance-based curriculum. I successfully navigated challenges that honed the following critical skills:
+<div align="center">
+  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/2da8bfa2-9107-4a11-b36a-d818326aa331" />     <img width="250" height="250" alt="Aws Cloud Practitioner Badge" src="https://github.com/user-attachments/assets/7d093894-a288-415e-a16b-ed039907ccde" />
+</div>
 
 ### ☁️ AWS Cloud Proficiency
 
@@ -143,17 +127,6 @@ https://github.com/KemisoInstances/The-12-Week-Cloud-Launchpad/blob/c98276ee7fd9
 5.  **Foundational Security:** All backend services are isolated within an **Amazon VPC**. **IAM Roles** strictly govern inter-service communication permissions, and **Security Groups** act as instance-level firewalls.
 6.  **Visibility:** **CloudWatch** centrally collects all logs and metrics, providing continuous, real-time monitoring of the entire platform's health and performance.
 ---
-## 📚 Key Labs & Hands-On Experiences
-
-I have completed numerous hands-on labs (**scoring 1/1 on all graded assignments**) that simulate real-world scenarios. These labs were crucial in building practical expertise across various domains:
-
-* **AWS Infrastructure & Management (JAWS/CF):** Configuring an Amazon VPC, Creating Amazon EC2 Instances, Scale and Load Balance your Architecture / Using Auto Scaling, and Automating Deployments with AWS CloudFormation.
-
-* **Linux & Scripting Fundamentals (LX/PF):** Developed strong command-line proficiency through labs like Linux Command Line and Bash Shell Scripts.
-* **Networking & Security (NF/SF):** Applied best practices in Network-Hardening, Systems-Hardening, and Introduction to **Identity and Access Management (IAM).**
-* **Databases (DF):** Deployed and managed relational databases in labs such as Build Your Database Server.
----
-
 ## 🤝 Let's Connect & Collaborate
 
 I am a team player with a problem-solving mindset and I am actively seeking opportunities to contribute my skills to an innovative team. 
