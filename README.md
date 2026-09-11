@@ -10,10 +10,12 @@
 
 # <h2 align="left">👨🏻‍💻 Get To Know Me <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-From circuit board to secure cloud: My technical path is clear - I love Learning😄.
-* **Specialization💡** I am an Electronic Engineer with a rare speciality in Artificial Intelligence/Machine Learning, Analogue/Digital Electronic Designs, and Signal & Systems 
-* **Core Value⏳** Revolutionizing the world of digital communication for faster, more secure, and smarter communication across all sectors, from consumer electronics to healthcare.
-* **Qualification/Certificate🎓** **AWS Certified Cloud Practitioner** & **Bachelors of Engineering**
+* **Background:** B.Eng in Electronic Engineering with expertise in embedded systems, cloud security, and system analysis.
+* **Core Philosophy:** Security is non-negotiable at every layer—from the **Hardware Root of Trust** on microcontrollers to cloud perimeter defenses.
+* **My Goal:** Pursuing advanced roles and research in intelligence systems, penetration testing, and cyber-physical defense.
+
+*From circuit board to securing cloud & security: My technical path is clear - I love Learning & securing systems😄.*
+
 ---
 
 # 💡 My AWS re/Start Journey: From Ambition to Architecture
