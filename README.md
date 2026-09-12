@@ -27,6 +27,7 @@ My journey taught me how to move beyond theoretical knowledge and apply **hands-
 ---
 
 ## 🌟 Core Competencies & Key Achievements
+💼 **Aws Certificate Verification:** https://www.credly.com/users/osward-kemiso-mareledi
 <div align="center">
   <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/2da8bfa2-9107-4a11-b36a-d818326aa331" />  <img width="234" height="234" alt="image" src="https://github.com/user-attachments/assets/16edbe91-8c28-444e-ac80-1ac5907f380d" />
 
